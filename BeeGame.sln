@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeeGame", "BeeGame\BeeGame.csproj", "{83AF6639-E3E7-4C9C-A372-DB824F0E1621}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeeGame.ServiceLayer", "BeeGame.ServiceLayer\BeeGame.ServiceLayer.csproj", "{4B53D292-F638-404C-99C1-8A8B8C0036C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeeGame.DomainLayer", "BeeGame.DomainLayer\BeeGame.DomainLayer.csproj", "{75476B71-B932-46B8-81BF-3A5C4784ED98}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83AF6639-E3E7-4C9C-A372-DB824F0E1621}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83AF6639-E3E7-4C9C-A372-DB824F0E1621}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83AF6639-E3E7-4C9C-A372-DB824F0E1621}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83AF6639-E3E7-4C9C-A372-DB824F0E1621}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B53D292-F638-404C-99C1-8A8B8C0036C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B53D292-F638-404C-99C1-8A8B8C0036C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B53D292-F638-404C-99C1-8A8B8C0036C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B53D292-F638-404C-99C1-8A8B8C0036C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75476B71-B932-46B8-81BF-3A5C4784ED98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75476B71-B932-46B8-81BF-3A5C4784ED98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75476B71-B932-46B8-81BF-3A5C4784ED98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75476B71-B932-46B8-81BF-3A5C4784ED98}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

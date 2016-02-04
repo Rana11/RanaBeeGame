@@ -1,0 +1,4 @@
+D:\Rana\POC\BeeGame\BeeGame.DomainLayer\bin\Debug\BeeGame.DomainLayer.dll
+D:\Rana\POC\BeeGame\BeeGame.DomainLayer\bin\Debug\BeeGame.DomainLayer.pdb
+D:\Rana\POC\BeeGame\BeeGame.DomainLayer\obj\Debug\BeeGame.DomainLayer.dll
+D:\Rana\POC\BeeGame\BeeGame.DomainLayer\obj\Debug\BeeGame.DomainLayer.pdb

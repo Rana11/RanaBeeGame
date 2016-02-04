@@ -1,0 +1,7 @@
+D:\Rana\POC\BeeGame\BeeGame.ServiceLayer\bin\Debug\BeeGame.ServiceLayer.dll
+D:\Rana\POC\BeeGame\BeeGame.ServiceLayer\bin\Debug\BeeGame.ServiceLayer.pdb
+D:\Rana\POC\BeeGame\BeeGame.ServiceLayer\bin\Debug\BeeGame.DomainLayer.dll
+D:\Rana\POC\BeeGame\BeeGame.ServiceLayer\bin\Debug\BeeGame.DomainLayer.pdb
+D:\Rana\POC\BeeGame\BeeGame.ServiceLayer\obj\Debug\BeeGame.ServiceLayer.csprojResolveAssemblyReference.cache
+D:\Rana\POC\BeeGame\BeeGame.ServiceLayer\obj\Debug\BeeGame.ServiceLayer.dll
+D:\Rana\POC\BeeGame\BeeGame.ServiceLayer\obj\Debug\BeeGame.ServiceLayer.pdb

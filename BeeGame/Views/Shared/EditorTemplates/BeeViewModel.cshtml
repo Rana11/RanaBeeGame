@@ -1,0 +1,6 @@
+﻿@model  IList<BeeGame.ServiceLayer.Models.BeeViewModel>
+            
+@foreach (var bee in Model)
+{
+    <div data-id="@bee.Id" class="bee">@bee.PointsLeft</div>
+}
